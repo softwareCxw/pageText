@@ -1,0 +1,19 @@
+/*清楚默认样式*/
+*{
+    margin:0;
+    padding: 0;
+}
+
+/*文章内的样式*/
+
+/*标题样式*/
+#title{
+    text-align:center;
+}
+
+/*表格1样式*/
+#table1 {
+    margin-top:10px;
+    text-align:center;
+    align:center;
+}
